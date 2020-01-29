@@ -1851,7 +1851,7 @@ lines(density(ynorm.sim),lty=1,lwd=2,col="red")
 * A model based on the Poisson distribution should be more reasonable. Here (from Greenberg) is the Poisson probability mass function:
 
 <p align="center">
-<img src="/gfiles/poisson-equation.png" width="500px">
+<img src="/gfiles/poisson-equation.png" width="400px">
 </p>
 
 and the R code is:
