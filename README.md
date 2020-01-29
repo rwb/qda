@@ -1848,10 +1848,10 @@ lines(density(ynorm.sim),lty=1,lwd=2,col="red")
 <img src="/gfiles/philnorm.png" width="800px">
 </p>
 
-* A model based on the Poisson distribution should be more reasonable. Here is the Poisson probability mass function:
+* A model based on the Poisson distribution should be more reasonable. Here (from Greenberg) is the Poisson probability mass function:
 
 <p align="center">
-<img src="/gfiles/poisson-equation.png" width="600px">
+<img src="/gfiles/poisson-equation.png" width="500px">
 </p>
 
 and the R code is:
@@ -2364,7 +2364,7 @@ and a plot of the log-likelihood function:
 <img src="/gfiles/phil-like.png" width="800px">
 </p>
 
-* The Poisson model is restrictive and may be generalized to the negative binomial distribution. The negative binomial pmf is given by:
+* The Poisson model is restrictive and may be generalized to the negative binomial distribution. The negative binomial pmf (from Greenberg) is given by:
 
 <p align="center">
 <img src="/gfiles/negbin-equation.png" width="600px">
